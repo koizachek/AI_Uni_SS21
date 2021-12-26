@@ -1,3 +1,3 @@
 # AI_Projects
-WS 21/22
+SS 21
 Use Case Sheets from Freie University Seminar of Python for Data Science
